@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335858658320",
+    "firebase_url": "https://notificationtryandpractice.firebaseio.com",
+    "project_id": "notificationtryandpractice",
+    "storage_bucket": "notificationtryandpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335858658320:android:7325a64fb4986e78412e95",
+        "android_client_info": {
+          "package_name": "com.example.notificationtryandpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335858658320-it5a6spl94ct05maprt9ek44jrt48upf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGicwX7re-vdyzT96uIYXtFpb6cT8Vrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335858658320-it5a6spl94ct05maprt9ek44jrt48upf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
