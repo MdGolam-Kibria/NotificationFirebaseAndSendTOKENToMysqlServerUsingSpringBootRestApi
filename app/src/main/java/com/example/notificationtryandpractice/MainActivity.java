@@ -48,9 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 }
                 // Get new Instance ID token
                 String token = task.getResult().getToken();
-
-                // Log and toast
-                // String msg = getString(R.string.msg_token_fmt, token);
                 Log.d("token", token);
                 Toast.makeText(MainActivity.this, token, Toast.LENGTH_LONG).show();
                 getApplicationContext().sendBroadcast(new Intent(SEND_BROADCAST));
